@@ -7,7 +7,8 @@ This project applies supervised machine learning techniques to classify data int
 To build a classification model that accurately predicts the target variable using a labeled dataset. The process involves exploring the data, handling missing values, encoding categorical features, training various ML models, and evaluating performance using standard metrics.
 
 **🗂 Projects:**
-1)Stroke Prediction
+1) Stroke Prediction :
+     A model that predicts the likelihood of stroke occurrence based on a patient’s demographic and medical history data. It applies classification techniques to assist in        early detection and preventive care.
 
 **🛠 Tools & Technologies:**
 
@@ -55,4 +56,5 @@ Language: Python 3.x
 
 > Cross-validation scores
 
+> ⚠️ Class imbalance handling techniques like SMOTE or class weighting may be used to improve minority class prediction.
 
