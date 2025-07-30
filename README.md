@@ -12,7 +12,7 @@ To build a classification model that accurately predicts the target variable usi
 
 **🛠 Tools & Technologies:**
 
-Language: Python 3.x
+Language: Python 3.11.5
 
 **Libraries:**
 
